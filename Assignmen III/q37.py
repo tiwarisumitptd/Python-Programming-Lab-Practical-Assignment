@@ -1,0 +1,17 @@
+print("Sumit Tiwari")
+print("Enrollment:  2301123044")
+
+t = (10, 20, 30, 40, 50, 60, 70, 80, 90, 100)
+print(t[:])
+print(t[0:5])
+print(t[3:])
+print(t[:4])
+print(t[::2])
+print(t[::3])
+print(t[-5:-1])
+print(t[::-1])
+print(t[2:7])
+print(t[8:2:-1])
+print(t[::-2])
+print(t[-3:])
+
